@@ -1,0 +1,2 @@
+love %cd%
+pause
